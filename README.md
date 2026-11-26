@@ -13,4 +13,4 @@ HTML5, CSS3, JavaScript y GitHub Pages.
 - `js/`: menú móvil y tema.
 - `img/`: favicon.
 
-Para probarlo, abre index.html en un navegador. Para publicar, configura GitHub Pages desde la rama main y la carpeta raíz.
+Proyecto académico de DAW.
